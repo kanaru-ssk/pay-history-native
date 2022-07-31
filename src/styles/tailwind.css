@@ -1,0 +1,113 @@
+.fixed {
+  position: fixed
+}
+
+.top-12 {
+  top: 3rem
+}
+
+.left-0 {
+  left: 0px
+}
+
+.z-10 {
+  z-index: 10
+}
+
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem
+}
+
+.mr-\[45vw\] {
+  margin-right: 45vw
+}
+
+.block {
+  display: block
+}
+
+.flex {
+  display: flex
+}
+
+.h-20 {
+  height: 5rem
+}
+
+.h-12 {
+  height: 3rem
+}
+
+.h-16 {
+  height: 4rem
+}
+
+.w-full {
+  width: 100%
+}
+
+.flex-row {
+  flex-direction: row
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse
+}
+
+.flex-col {
+  flex-direction: column
+}
+
+.items-center {
+  align-items: center
+}
+
+.overflow-y-hidden {
+  overflow-y: hidden
+}
+
+.overflow-x-scroll {
+  overflow-x: scroll
+}
+
+.border-b {
+  border-bottom-width: 1px
+}
+
+.border-gray {
+  --tw-border-opacity: 1;
+  border-color: rgb(187 187 187 / var(--tw-border-opacity))
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity))
+}
+
+.bg-sub-color {
+  --tw-bg-opacity: 1;
+  background-color: rgb(193 197 254 / var(--tw-bg-opacity))
+}
+
+.pl-4 {
+  padding-left: 1rem
+}
+
+.pr-\[45vw\] {
+  padding-right: 45vw
+}
+
+@media (min-width: 768px) {
+  .md\:top-20 {
+    top: 5rem
+  }
+
+  .md\:h-24 {
+    height: 6rem
+  }
+
+  .md\:h-20 {
+    height: 5rem
+  }
+}
